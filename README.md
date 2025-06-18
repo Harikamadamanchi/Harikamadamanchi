@@ -27,16 +27,6 @@ I'm a passionate **Full Stack Developer** with over 4 years of experience buildi
 - OpenRewrite for code refactoring automation  
 - Advanced Kafka streaming and observability tools
 
----
-
-### 🔥 GitHub Highlights
-
-- 🚀 [MacBook Distribution App (iOS)](link)  
-- 🚗 [Wheels 4 Rent - Car Rental System](link)  
-- 📊 [Crypto Price Prediction Using ML](link)  
-- 🔍 [Multi-Task Discovery Method in Data Mining](link)
-
----
 
 ### 📬 Let's Connect
 
