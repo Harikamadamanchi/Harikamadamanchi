@@ -1,9 +1,49 @@
-- 👋 Hi, I’m @Harikamadamanchi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Application Developing 
-- 📫 How to reach me harikamadamanchi2000@gmail.com
+# 👩‍💻 Harika Madamanchi
 
-<!---
-Harikamadamanchi/Harikamadamanchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Software Engineer | Java | Spring Boot | Microservices | Kafka | REST APIs | Kubernetes  
+📍 Scottsdale, AZ | Open to W2 Roles | H1B Visa | Actively Seeking New Opportunities
+
+---
+
+### 👋 Welcome!
+
+I'm a passionate **Full Stack Developer** with over 4 years of experience building robust backend systems and scalable web applications. Currently contributing to the **NeMo Project at American Express**, modernizing legacy payment systems using cutting-edge technologies like Java, Kafka, Docker, and Kubernetes.
+
+---
+
+### 💼 Tech Stack
+
+- **Languages:** Java, JavaScript, TypeScript, SQL, Python
+- **Frameworks:** Spring Boot, Spring Batch, Node.js, React, Angular
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Git, Jenkins
+- **Databases:** Oracle, MySQL, MongoDB
+- **Messaging & Tools:** Apache Kafka, REST APIs, Postman, Swagger, Splunk, Kibana
+
+---
+
+### 📚 Currently Learning
+
+- Next.js and GraphQL for modern front-end development  
+- OpenRewrite for code refactoring automation  
+- Advanced Kafka streaming and observability tools
+
+---
+
+### 🔥 GitHub Highlights
+
+- 🚀 [MacBook Distribution App (iOS)](link)  
+- 🚗 [Wheels 4 Rent - Car Rental System](link)  
+- 📊 [Crypto Price Prediction Using ML](link)  
+- 🔍 [Multi-Task Discovery Method in Data Mining](link)
+
+---
+
+### 📬 Let's Connect
+
+- 📧 Email: [harikamadamanchi13122000@gmail.com](mailto:harikamadamanchi13122000@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harika-madamanchi-5a5147214/)  
+
+---
+
+_✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House ✨_
+
