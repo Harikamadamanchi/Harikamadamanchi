@@ -31,7 +31,7 @@ I'm a passionate **Full Stack Developer** with experience in building robust bac
 ### 📬 Let's Connect
 
 - 📧 Email: [harikamadamanchi13122000@gmail.com](mailto:harikamadamanchi13122000@gmail.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/harika-m-5a5147214/])  
+- 💼 LinkedIn: [linkedin.com/in/harika-madamanchi-5a5147214 ](https://www.linkedin.com/in/harika-m-5a5147214/)
 
 ---
 
