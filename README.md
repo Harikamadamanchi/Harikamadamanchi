@@ -1,13 +1,13 @@
 # 👩‍💻 Harika Madamanchi
 
 🎯 Software Engineer | Java | Spring Boot | Microservices | Kafka | REST APIs | Kubernetes  
-📍 Scottsdale, AZ | Open to W2 Roles | H1B Visa | Actively Seeking New Opportunities
+📍 Scottsdale, AZ | Actively looking for full time oppurtunities
 
 ---
 
 ### 👋 Welcome!
 
-I'm a passionate **Full Stack Developer** with over 4 years of experience building robust backend systems and scalable web applications. Currently contributing to the **NeMo Project at American Express**, modernizing legacy payment systems using cutting-edge technologies like Java, Kafka, Docker, and Kubernetes.
+I'm a passionate **Full Stack Developer** with experience in building robust backend systems and scalable web applications. Currently contributing to the **NeMo Project at American Express**, modernizing legacy payment systems using cutting-edge technologies like Java, Kafka, Docker, and Kubernetes.
 
 ---
 
@@ -31,7 +31,7 @@ I'm a passionate **Full Stack Developer** with over 4 years of experience buildi
 ### 📬 Let's Connect
 
 - 📧 Email: [harikamadamanchi13122000@gmail.com](mailto:harikamadamanchi13122000@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harika-madamanchi-5a5147214/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/harika-m-5a5147214/])  
 
 ---
 
